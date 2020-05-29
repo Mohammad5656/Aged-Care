@@ -1,0 +1,361 @@
+Unique,State/Territory,Remoteness,Sex,Age Group,Death,To hospital,To another aged care service,Return to community,Other,Exits,Lives alone,Lives with family,Lives with others,Unknown,Not applicable,Admissions,Widowed,Married/De Facto,Divorced,Separated,Single,Unknown,Living
+NSWMajor citiesMale70-74,NSW,Major cities,Male,70-74,277,18,11,29,12,347,100,144,16,0,31,291,114,331,215,69,280,29,1038
+NSWMajor citiesFemale70-74,NSW,Major cities,Female,70-74,206,15,12,30,6,269,73,95,8,0,13,189,364,330,207,48,173,32,1154
+NSWInner regionalMale70-74,NSW,Inner regional,Male,70-74,108,3,2,7,5,125,42,40,5,0,8,95,37,128,61,30,91,13,360
+NSWInner regionalFemale70-74,NSW,Inner regional,Female,70-74,82,2,5,10,2,101,29,36,4,0,8,77,147,153,68,16,60,9,453
+NSWOuter regionalMale70-74,NSW,Outer regional,Male,70-74,28,2,4,2,1,37,15,8,2,0,3,28,9,31,13,4,22,3,82
+NSWOuter regionalFemale70-74,NSW,Outer regional,Female,70-74,31,0,2,3,0,36,6,11,2,0,3,22,57,42,7,3,12,3,124
+NSWRemoteMale70-74,NSW,Remote,Male,70-74,1,0,0,0,0,1,24,13,0,0,4,41,1,1,0,0,2,0,4
+NSWRemoteFemale70-74,NSW,Remote,Female,70-74,1,0,0,0,0,1,0,0,0,0,1,1,2,1,1,0,0,0,4
+VicMajor citiesMale70-74,Vic,Major cities,Male,70-74,170,6,8,13,7,204,73,74,17,0,8,172,91,279,136,52,206,30,794
+VicMajor citiesFemale70-74,Vic,Major cities,Female,70-74,162,8,8,21,3,202,55,84,8,0,10,157,280,304,138,27,136,13,898
+VicInner regionalMale70-74,Vic,Inner regional,Male,70-74,67,2,2,11,3,85,21,33,1,0,4,59,17,95,39,14,63,5,233
+VicInner regionalFemale70-74,Vic,Inner regional,Female,70-74,69,3,1,5,3,81,28,23,2,0,7,60,86,93,37,6,41,6,269
+VicOuter regionalMale70-74,Vic,Outer regional,Male,70-74,29,2,0,4,1,36,4,10,0,0,0,14,5,19,14,5,17,1,61
+VicOuter regionalFemale70-74,Vic,Outer regional,Female,70-74,12,0,1,2,1,16,6,3,1,0,0,10,17,19,7,4,7,1,55
+VicRemoteMale70-74,Vic,Remote,Male,70-74,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+VicRemoteFemale70-74,Vic,Remote,Female,70-74,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+QldMajor citiesMale70-74,Qld,Major cities,Male,70-74,148,3,3,20,2,176,56,54,16,0,9,135,53,189,116,31,100,12,501
+QldMajor citiesFemale70-74,Qld,Major cities,Female,70-74,113,4,0,18,1,136,47,46,4,0,9,106,171,179,87,13,73,15,538
+QldInner regionalMale70-74,Qld,Inner regional,Male,70-74,74,2,2,3,2,83,13,27,4,0,3,47,25,80,43,11,66,8,233
+QldInner regionalFemale70-74,Qld,Inner regional,Female,70-74,41,0,1,2,1,45,11,20,4,0,6,41,90,81,38,7,31,7,254
+QldOuter regionalMale70-74,Qld,Outer regional,Male,70-74,25,1,0,2,1,29,10,11,2,0,2,25,16,40,20,8,32,1,117
+QldOuter regionalFemale70-74,Qld,Outer regional,Female,70-74,25,2,0,2,0,29,8,10,2,0,3,23,41,49,16,4,15,1,126
+QldRemoteMale70-74,Qld,Remote,Male,70-74,3,0,0,1,0,4,3,0,0,0,0,3,3,0,3,1,9,1,17
+QldRemoteFemale70-74,Qld,Remote,Female,70-74,1,0,0,1,0,2,0,0,0,0,1,1,4,5,0,0,1,0,10
+QldVery remoteMale70-74,Qld,Very remote,Male,70-74,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,3
+QldVery remoteFemale70-74,Qld,Very remote,Female,70-74,1,0,0,0,0,1,0,1,0,0,1,2,1,1,0,0,1,0,3
+WAMajor citiesMale70-74,WA,Major cities,Male,70-74,76,1,4,2,1,84,20,36,5,0,7,68,25,133,66,19,56,5,304
+WAMajor citiesFemale70-74,WA,Major cities,Female,70-74,54,3,2,3,1,63,15,26,5,0,4,50,99,110,65,14,36,7,331
+WAInner regionalMale70-74,WA,Inner regional,Male,70-74,18,0,0,1,1,20,4,2,0,0,3,9,6,30,13,5,9,2,65
+WAInner regionalFemale70-74,WA,Inner regional,Female,70-74,10,1,0,1,0,12,5,5,0,0,0,10,15,21,9,3,6,2,56
+WAOuter regionalMale70-74,WA,Outer regional,Male,70-74,10,0,0,0,0,10,4,1,0,0,2,7,2,9,8,4,11,0,34
+WAOuter regionalFemale70-74,WA,Outer regional,Female,70-74,4,0,0,0,0,4,4,7,0,0,0,11,9,18,7,4,0,0,38
+WARemoteMale70-74,WA,Remote,Male,70-74,3,0,0,0,0,3,1,1,0,0,1,3,2,3,3,1,2,0,11
+WARemoteFemale70-74,WA,Remote,Female,70-74,1,0,0,0,0,1,0,1,0,0,0,1,11,3,0,1,0,1,16
+WAVery remoteMale70-74,WA,Very remote,Male,70-74,1,0,0,0,0,1,1,1,0,0,0,2,1,2,0,0,1,0,4
+WAVery remoteFemale70-74,WA,Very remote,Female,70-74,1,0,0,0,0,1,0,0,0,0,0,0,5,0,0,1,0,0,6
+SAMajor citiesMale70-74,SA,Major cities,Male,70-74,69,4,1,6,5,85,28,29,8,0,5,70,23,85,46,21,52,10,237
+SAMajor citiesFemale70-74,SA,Major cities,Female,70-74,93,4,3,6,0,106,34,19,7,0,3,63,117,103,64,14,44,7,349
+SAInner regionalMale70-74,SA,Inner regional,Male,70-74,10,0,0,1,0,11,2,3,0,0,0,5,1,11,2,2,11,0,27
+SAInner regionalFemale70-74,SA,Inner regional,Female,70-74,11,1,0,0,0,12,2,3,0,0,0,5,16,21,9,1,3,0,50
+SAOuter regionalMale70-74,SA,Outer regional,Male,70-74,4,0,0,1,0,5,5,4,0,0,0,9,8,20,4,4,8,1,45
+SAOuter regionalFemale70-74,SA,Outer regional,Female,70-74,18,0,0,0,0,18,1,7,1,0,1,10,14,24,4,2,3,0,47
+SARemoteMale70-74,SA,Remote,Male,70-74,1,0,0,0,0,1,10,8,0,0,1,19,1,1,0,0,0,0,2
+SARemoteFemale70-74,SA,Remote,Female,70-74,0,0,0,0,0,0,1,2,0,0,0,3,1,1,0,1,1,0,4
+TasInner regionalMale70-74,Tas,Inner regional,Male,70-74,14,1,0,0,0,15,7,23,0,0,1,31,6,32,16,4,22,0,80
+TasInner regionalFemale70-74,Tas,Inner regional,Female,70-74,28,0,1,1,2,32,14,8,1,0,2,25,30,30,22,0,11,2,95
+TasOuter regionalMale70-74,Tas,Outer regional,Male,70-74,4,0,0,0,0,4,2,4,1,0,0,7,5,7,6,3,10,0,31
+TasOuter regionalFemale70-74,Tas,Outer regional,Female,70-74,10,0,0,0,0,10,6,5,0,0,2,13,14,17,6,0,1,0,38
+TasRemoteMale70-74,Tas,Remote,Male,70-74,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1
+TasRemoteFemale70-74,Tas,Remote,Female,70-74,1,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,0,3
+TasVery remoteMale70-74,Tas,Very remote,Male,70-74,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+TasVery remoteFemale70-74,Tas,Very remote,Female,70-74,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+ACTMajor citiesMale70-74,ACT,Major cities,Male,70-74,12,0,0,0,0,12,3,3,0,0,2,8,6,15,12,2,6,1,42
+ACTMajor citiesFemale70-74,ACT,Major cities,Female,70-74,10,0,1,0,1,12,3,3,0,0,1,7,16,20,15,2,4,2,59
+NTOuter regionalMale70-74,NT,Outer regional,Male,70-74,5,1,0,0,0,6,2,1,1,0,0,4,2,6,4,2,6,0,20
+NTOuter regionalFemale70-74,NT,Outer regional,Female,70-74,1,0,0,0,0,1,0,1,0,0,1,2,5,0,0,3,1,0,9
+NTRemoteMale70-74,NT,Remote,Male,70-74,3,0,0,0,0,3,0,0,1,0,0,1,1,0,1,1,1,0,4
+NTRemoteFemale70-74,NT,Remote,Female,70-74,0,0,0,0,0,0,0,2,1,0,0,3,6,4,1,1,0,2,14
+NTVery remoteMale70-74,NT,Very remote,Male,70-74,2,0,0,1,0,3,0,1,0,0,0,1,1,0,1,1,1,0,4
+NTVery remoteFemale70-74,NT,Very remote,Female,70-74,1,0,0,0,0,1,0,1,0,0,0,1,3,1,2,1,0,0,7
+NSWMajor citiesMale75-79,NSW,Major cities,Male,75-79,537,32,13,33,13,628,142,228,16,0,30,416,279,669,219,81,331,32,1611
+NSWMajor citiesFemale75-79,NSW,Major cities,Female,75-79,456,23,24,33,9,545,177,230,6,0,37,450,1065,690,252,56,229,33,2325
+NSWInner regionalMale75-79,NSW,Inner regional,Male,75-79,227,7,11,15,1,261,62,94,8,0,14,178,112,236,63,32,71,17,531
+NSWInner regionalFemale75-79,NSW,Inner regional,Female,75-79,192,6,6,16,2,222,72,103,1,0,28,204,416,261,84,18,82,10,871
+NSWOuter regionalMale75-79,NSW,Outer regional,Male,75-79,40,3,2,3,2,50,13,22,0,0,6,41,41,51,16,10,35,1,154
+NSWOuter regionalFemale75-79,NSW,Outer regional,Female,75-79,55,1,1,2,1,60,23,29,3,0,1,56,114,69,14,5,27,2,231
+NSWRemoteMale75-79,NSW,Remote,Male,75-79,0,0,0,0,0,0,1,0,0,0,0,1,2,1,0,1,1,0,5
+NSWRemoteFemale75-79,NSW,Remote,Female,75-79,1,0,1,0,0,2,1,1,1,0,1,4,4,1,0,0,0,0,5
+VicMajor citiesMale75-79,Vic,Major cities,Male,75-79,370,20,13,23,7,433,106,166,7,0,22,301,198,606,177,54,211,24,1270
+VicMajor citiesFemale75-79,Vic,Major cities,Female,75-79,405,16,15,28,9,473,134,179,9,1,18,341,856,636,205,39,164,28,1928
+VicInner regionalMale75-79,Vic,Inner regional,Male,75-79,144,3,1,6,2,156,45,62,4,0,4,115,72,172,44,23,71,6,388
+VicInner regionalFemale75-79,Vic,Inner regional,Female,75-79,129,3,3,8,0,143,43,64,5,0,7,119,285,202,48,11,43,12,601
+VicOuter regionalMale75-79,Vic,Outer regional,Male,75-79,41,0,1,0,1,43,14,17,1,0,3,35,10,36,11,9,22,2,90
+VicOuter regionalFemale75-79,Vic,Outer regional,Female,75-79,31,1,0,3,1,36,4,8,1,0,1,14,52,50,14,3,9,4,132
+VicRemoteMale75-79,Vic,Remote,Male,75-79,1,0,0,0,0,1,19,10,0,0,2,31,0,0,0,0,1,0,1
+VicRemoteFemale75-79,Vic,Remote,Female,75-79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QldMajor citiesMale75-79,Qld,Major cities,Male,75-79,260,10,3,24,3,300,77,129,17,0,7,230,114,318,157,25,100,16,730
+QldMajor citiesFemale75-79,Qld,Major cities,Female,75-79,239,8,4,28,6,285,78,108,8,0,14,208,508,325,140,14,103,21,1111
+QldInner regionalMale75-79,Qld,Inner regional,Male,75-79,107,3,2,7,2,121,34,59,6,0,9,108,61,152,54,20,56,5,348
+QldInner regionalFemale75-79,Qld,Inner regional,Female,75-79,100,3,2,7,1,113,36,51,1,0,11,99,227,173,38,4,28,14,484
+QldOuter regionalMale75-79,Qld,Outer regional,Male,75-79,60,1,1,3,1,66,15,17,5,0,2,39,27,74,31,10,46,4,192
+QldOuter regionalFemale75-79,Qld,Outer regional,Female,75-79,47,1,1,5,2,56,18,22,1,0,3,44,117,75,17,8,6,5,228
+QldRemoteMale75-79,Qld,Remote,Male,75-79,3,0,1,0,0,4,3,0,1,0,0,4,3,3,0,4,5,1,16
+QldRemoteFemale75-79,Qld,Remote,Female,75-79,2,0,1,0,0,3,3,0,0,0,0,3,9,4,0,0,2,1,16
+QldVery remoteMale75-79,Qld,Very remote,Male,75-79,1,1,0,0,0,2,0,1,1,0,0,2,2,2,2,1,1,1,9
+QldVery remoteFemale75-79,Qld,Very remote,Female,75-79,0,0,0,0,0,0,0,1,0,0,0,1,4,3,0,0,0,0,7
+WAMajor citiesMale75-79,WA,Major cities,Male,75-79,130,7,10,5,3,155,32,63,4,0,16,115,59,184,67,24,62,12,408
+WAMajor citiesFemale75-79,WA,Major cities,Female,75-79,118,5,4,11,1,139,43,59,6,0,8,116,330,233,91,18,46,12,730
+WAInner regionalMale75-79,WA,Inner regional,Male,75-79,22,0,3,2,0,27,6,13,1,0,1,21,13,44,11,5,9,2,84
+WAInner regionalFemale75-79,WA,Inner regional,Female,75-79,29,0,0,2,0,31,8,11,0,0,1,20,54,34,12,3,1,2,106
+WAOuter regionalMale75-79,WA,Outer regional,Male,75-79,11,1,0,0,1,13,7,3,0,0,0,10,5,19,5,3,14,1,47
+WAOuter regionalFemale75-79,WA,Outer regional,Female,75-79,14,1,2,0,1,18,3,11,0,0,1,15,41,24,6,1,7,1,80
+WARemoteMale75-79,WA,Remote,Male,75-79,1,0,0,0,0,1,2,2,0,0,0,4,0,4,2,2,0,1,9
+WARemoteFemale75-79,WA,Remote,Female,75-79,5,0,0,0,0,5,1,0,0,0,1,2,3,6,0,1,1,1,12
+WAVery remoteMale75-79,WA,Very remote,Male,75-79,2,1,0,0,0,3,0,2,0,0,0,2,2,4,0,1,0,0,7
+WAVery remoteFemale75-79,WA,Very remote,Female,75-79,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,8
+SAMajor citiesMale75-79,SA,Major cities,Male,75-79,135,3,2,5,2,147,37,67,2,0,5,111,68,211,63,18,44,9,413
+SAMajor citiesFemale75-79,SA,Major cities,Female,75-79,151,1,3,12,2,169,53,76,7,0,6,142,304,230,97,11,46,9,697
+SAInner regionalMale75-79,SA,Inner regional,Male,75-79,25,0,1,1,0,27,2,6,2,0,0,10,10,40,7,0,8,1,66
+SAInner regionalFemale75-79,SA,Inner regional,Female,75-79,20,1,1,0,0,22,6,6,1,0,1,14,44,42,11,1,5,1,104
+SAOuter regionalMale75-79,SA,Outer regional,Male,75-79,20,1,0,1,1,23,3,11,0,0,0,14,10,27,7,1,5,1,51
+SAOuter regionalFemale75-79,SA,Outer regional,Female,75-79,28,0,1,1,0,30,11,9,2,0,1,23,46,41,3,1,3,1,95
+SARemoteMale75-79,SA,Remote,Male,75-79,0,0,0,0,0,0,0,1,0,0,0,1,1,3,0,0,1,0,5
+SARemoteFemale75-79,SA,Remote,Female,75-79,2,0,0,0,0,2,1,1,0,0,0,2,7,8,1,0,0,0,16
+TasInner regionalMale75-79,Tas,Inner regional,Male,75-79,49,3,3,3,0,58,15,18,2,0,1,36,20,54,22,3,19,2,120
+TasInner regionalFemale75-79,Tas,Inner regional,Female,75-79,56,0,1,3,0,60,21,14,3,0,2,40,92,80,31,2,12,0,217
+TasOuter regionalMale75-79,Tas,Outer regional,Male,75-79,15,0,0,0,0,15,9,2,0,0,1,12,8,19,6,2,5,0,40
+TasOuter regionalFemale75-79,Tas,Outer regional,Female,75-79,17,0,0,2,0,19,11,7,1,0,0,19,33,23,6,1,3,0,66
+TasRemoteMale75-79,Tas,Remote,Male,75-79,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+TasRemoteFemale75-79,Tas,Remote,Female,75-79,1,0,1,0,0,2,1,1,0,0,0,2,0,2,0,0,0,0,2
+TasVery remoteMale75-79,Tas,Very remote,Male,75-79,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+TasVery remoteFemale75-79,Tas,Very remote,Female,75-79,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+ACTMajor citiesMale75-79,ACT,Major cities,Male,75-79,27,0,0,2,0,29,7,9,2,0,1,19,18,32,5,1,12,0,68
+ACTMajor citiesFemale75-79,ACT,Major cities,Female,75-79,28,0,1,0,0,29,12,14,0,0,3,29,57,30,11,1,4,7,110
+NTOuter regionalMale75-79,NT,Outer regional,Male,75-79,3,2,0,0,0,5,2,3,1,0,3,9,2,10,3,1,6,2,24
+NTOuter regionalFemale75-79,NT,Outer regional,Female,75-79,2,0,0,0,0,2,0,1,0,0,0,1,8,8,4,0,0,1,21
+NTRemoteMale75-79,NT,Remote,Male,75-79,1,0,1,0,0,2,4,1,0,0,0,5,1,0,1,0,1,0,3
+NTRemoteFemale75-79,NT,Remote,Female,75-79,2,1,0,0,0,3,1,2,0,0,0,3,10,0,1,0,0,0,11
+NTVery remoteMale75-79,NT,Very remote,Male,75-79,0,0,0,0,0,0,0,1,0,0,0,1,2,1,0,0,0,0,3
+NTVery remoteFemale75-79,NT,Very remote,Female,75-79,0,0,0,0,0,0,0,1,0,0,0,1,4,1,0,0,0,0,5
+NSWMajor citiesMale80-84,NSW,Major cities,Male,80-84,967,49,22,44,10,1092,222,451,27,0,47,747,592,1178,228,78,346,46,2468
+NSWMajor citiesFemale80-84,NSW,Major cities,Female,80-84,1183,57,40,78,14,1372,387,435,24,0,60,906,3050,1343,385,68,382,75,5303
+NSWInner regionalMale80-84,NSW,Inner regional,Male,80-84,406,8,10,25,2,451,91,177,13,0,15,296,236,429,86,27,112,9,899
+NSWInner regionalFemale80-84,NSW,Inner regional,Female,80-84,460,16,12,25,5,518,136,148,11,0,33,328,1032,535,103,29,101,26,1826
+NSWOuter regionalMale80-84,NSW,Outer regional,Male,80-84,81,4,2,2,0,89,37,28,2,0,4,71,69,100,26,12,49,4,260
+NSWOuter regionalFemale80-84,NSW,Outer regional,Female,80-84,101,4,3,5,2,115,49,49,2,0,8,108,291,122,10,4,26,4,457
+NSWRemoteMale80-84,NSW,Remote,Male,80-84,3,0,1,0,0,4,1,2,0,0,0,3,1,6,0,0,2,0,9
+NSWRemoteFemale80-84,NSW,Remote,Female,80-84,2,0,2,0,0,4,0,2,0,0,0,2,8,2,0,0,1,0,11
+VicMajor citiesMale80-84,Vic,Major cities,Male,80-84,749,26,18,40,16,849,185,342,16,0,28,571,419,1032,162,55,215,22,1905
+VicMajor citiesFemale80-84,Vic,Major cities,Female,80-84,912,31,19,48,5,1015,317,374,20,0,43,754,2509,1190,266,56,270,51,4342
+VicInner regionalMale80-84,Vic,Inner regional,Male,80-84,296,5,7,7,3,318,62,117,9,0,12,200,147,314,52,23,72,8,616
+VicInner regionalFemale80-84,Vic,Inner regional,Female,80-84,331,4,5,13,2,355,110,105,2,0,21,238,774,384,59,17,59,17,1310
+VicOuter regionalMale80-84,Vic,Outer regional,Male,80-84,67,2,3,0,1,73,14,21,2,0,2,39,40,68,6,5,20,3,142
+VicOuter regionalFemale80-84,Vic,Outer regional,Female,80-84,56,1,3,4,3,67,25,22,0,0,6,53,162,92,11,3,9,2,279
+VicRemoteMale80-84,Vic,Remote,Male,80-84,2,0,0,0,0,2,0,0,0,0,1,1,0,1,0,0,1,0,2
+VicRemoteFemale80-84,Vic,Remote,Female,80-84,1,0,0,0,0,1,0,1,0,0,0,1,4,2,0,0,1,0,7
+QldMajor citiesMale80-84,Qld,Major cities,Male,80-84,443,14,6,26,4,493,107,228,18,0,15,368,299,592,118,33,141,26,1209
+QldMajor citiesFemale80-84,Qld,Major cities,Female,80-84,576,14,4,38,2,634,168,214,10,0,33,425,1460,666,163,32,172,29,2522
+QldInner regionalMale80-84,Qld,Inner regional,Male,80-84,203,3,5,10,2,223,54,91,3,0,12,160,117,252,39,9,62,6,485
+QldInner regionalFemale80-84,Qld,Inner regional,Female,80-84,211,2,3,9,3,228,101,82,3,0,16,202,563,263,42,19,50,13,950
+QldOuter regionalMale80-84,Qld,Outer regional,Male,80-84,86,6,1,1,2,96,24,49,4,0,6,83,62,113,24,15,41,5,260
+QldOuter regionalFemale80-84,Qld,Outer regional,Female,80-84,112,2,3,6,0,123,46,51,1,0,8,106,293,148,24,10,20,2,497
+QldRemoteMale80-84,Qld,Remote,Male,80-84,8,0,1,0,2,11,3,1,1,0,2,7,5,5,3,1,9,0,23
+QldRemoteFemale80-84,Qld,Remote,Female,80-84,8,1,0,1,0,10,3,4,0,0,1,8,18,7,2,1,1,2,31
+QldVery remoteMale80-84,Qld,Very remote,Male,80-84,2,0,0,0,0,2,3,3,0,0,1,7,2,5,0,1,4,0,12
+QldVery remoteFemale80-84,Qld,Very remote,Female,80-84,5,0,0,0,0,5,1,1,0,0,0,2,4,0,1,0,1,0,6
+WAMajor citiesMale80-84,WA,Major cities,Male,80-84,242,16,6,8,10,282,70,115,7,0,26,218,162,334,70,15,81,8,670
+WAMajor citiesFemale80-84,WA,Major cities,Female,80-84,310,18,11,10,6,355,112,137,3,0,33,285,826,437,104,23,67,9,1466
+WAInner regionalMale80-84,WA,Inner regional,Male,80-84,63,0,0,1,2,66,10,24,1,0,2,37,34,71,10,4,16,2,137
+WAInner regionalFemale80-84,WA,Inner regional,Female,80-84,80,0,1,3,2,86,17,22,1,0,4,44,176,73,11,7,8,1,276
+WAOuter regionalMale80-84,WA,Outer regional,Male,80-84,28,1,0,1,1,31,6,13,0,0,2,21,17,36,7,3,8,1,72
+WAOuter regionalFemale80-84,WA,Outer regional,Female,80-84,27,1,1,2,1,32,17,23,0,0,3,43,80,35,9,0,3,3,130
+WARemoteMale80-84,WA,Remote,Male,80-84,5,0,1,0,0,6,0,3,1,0,0,4,7,10,1,0,0,1,19
+WARemoteFemale80-84,WA,Remote,Female,80-84,4,0,0,0,0,4,0,4,0,0,2,6,8,7,3,0,1,1,20
+WAVery remoteMale80-84,WA,Very remote,Male,80-84,1,0,0,0,0,1,0,1,0,0,1,2,1,1,0,0,1,0,3
+WAVery remoteFemale80-84,WA,Very remote,Female,80-84,1,0,0,1,0,2,0,1,1,0,1,3,4,2,0,1,0,0,7
+SAMajor citiesMale80-84,SA,Major cities,Male,80-84,296,5,1,6,2,310,61,126,8,0,11,206,182,416,71,30,66,7,772
+SAMajor citiesFemale80-84,SA,Major cities,Female,80-84,421,3,3,11,4,442,132,126,7,0,20,285,1002,450,105,9,85,12,1663
+SAInner regionalMale80-84,SA,Inner regional,Male,80-84,44,0,0,0,0,44,7,25,1,0,1,34,16,67,9,3,12,1,108
+SAInner regionalFemale80-84,SA,Inner regional,Female,80-84,52,0,1,1,0,54,16,22,3,0,3,44,139,80,7,4,10,1,241
+SAOuter regionalMale80-84,SA,Outer regional,Male,80-84,36,0,0,1,0,37,6,21,0,0,1,28,20,51,7,1,8,3,90
+SAOuter regionalFemale80-84,SA,Outer regional,Female,80-84,55,0,1,2,0,58,14,20,0,0,6,40,138,53,7,1,1,2,202
+SARemoteMale80-84,SA,Remote,Male,80-84,3,0,0,0,0,3,0,2,0,0,0,2,3,5,0,0,2,1,11
+SARemoteFemale80-84,SA,Remote,Female,80-84,4,0,0,0,0,4,2,4,0,0,1,7,16,7,2,1,0,1,27
+TasInner regionalMale80-84,Tas,Inner regional,Male,80-84,87,1,2,2,0,92,25,42,0,0,4,71,53,101,19,4,15,0,192
+TasInner regionalFemale80-84,Tas,Inner regional,Female,80-84,141,2,2,5,1,151,38,42,3,0,5,88,250,112,23,2,31,2,420
+TasOuter regionalMale80-84,Tas,Outer regional,Male,80-84,31,0,0,1,0,32,8,11,0,0,0,19,21,40,8,0,5,0,74
+TasOuter regionalFemale80-84,Tas,Outer regional,Female,80-84,31,1,1,1,1,35,15,13,0,0,1,29,88,34,6,1,6,0,135
+TasRemoteMale80-84,Tas,Remote,Male,80-84,2,0,0,0,0,2,1,0,0,0,0,1,1,2,0,0,0,0,3
+TasRemoteFemale80-84,Tas,Remote,Female,80-84,0,0,0,0,0,0,0,1,0,0,0,1,7,2,1,0,0,0,10
+TasVery remoteMale80-84,Tas,Very remote,Male,80-84,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+TasVery remoteFemale80-84,Tas,Very remote,Female,80-84,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,0,0,0,3
+ACTMajor citiesMale80-84,ACT,Major cities,Male,80-84,39,2,1,0,0,42,10,24,2,0,0,36,27,72,7,1,10,1,118
+ACTMajor citiesFemale80-84,ACT,Major cities,Female,80-84,56,0,1,3,1,61,22,15,0,0,5,42,141,73,27,4,18,2,265
+NTOuter regionalMale80-84,NT,Outer regional,Male,80-84,8,1,1,0,0,10,1,6,3,0,2,12,4,11,4,0,9,0,28
+NTOuter regionalFemale80-84,NT,Outer regional,Female,80-84,5,0,0,0,0,5,3,5,0,0,0,8,21,10,3,1,0,1,36
+NTRemoteMale80-84,NT,Remote,Male,80-84,2,0,0,0,0,2,0,0,1,0,0,1,5,2,1,2,3,0,13
+NTRemoteFemale80-84,NT,Remote,Female,80-84,4,0,0,2,0,6,2,2,0,0,0,4,7,1,3,0,1,0,12
+NTVery remoteMale80-84,NT,Very remote,Male,80-84,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,2
+NTVery remoteFemale80-84,NT,Very remote,Female,80-84,0,0,0,0,0,0,0,2,1,0,0,3,1,1,0,1,0,0,3
+NSWMajor citiesMale85-89,NSW,Major cities,Male,85-89,1264,51,28,38,14,1395,401,757,37,1,86,1282,911,1391,167,60,235,26,2790
+NSWMajor citiesFemale85-89,NSW,Major cities,Female,85-89,2050,72,79,79,24,2304,928,834,33,0,141,1936,5777,1566,344,57,495,83,8322
+NSWInner regionalMale85-89,NSW,Inner regional,Male,85-89,517,12,10,17,4,560,191,302,12,0,34,539,355,544,42,20,67,12,1040
+NSWInner regionalFemale85-89,NSW,Inner regional,Female,85-89,772,17,11,17,5,822,342,309,11,0,68,730,1952,633,83,18,130,19,2835
+NSWOuter regionalMale85-89,NSW,Outer regional,Male,85-89,101,4,4,6,0,115,44,64,5,0,15,128,87,108,16,4,21,1,237
+NSWOuter regionalFemale85-89,NSW,Outer regional,Female,85-89,185,7,9,3,5,209,89,63,1,0,18,171,469,139,20,3,31,5,667
+NSWRemoteMale85-89,NSW,Remote,Male,85-89,0,0,1,0,0,1,2,1,0,0,0,3,4,1,0,1,2,0,8
+NSWRemoteFemale85-89,NSW,Remote,Female,85-89,1,0,1,0,0,2,2,1,0,0,0,3,10,3,0,0,1,0,14
+VicMajor citiesMale85-89,Vic,Major cities,Male,85-89,979,20,20,31,7,1057,301,603,22,0,46,972,739,1132,100,35,161,37,2204
+VicMajor citiesFemale85-89,Vic,Major cities,Female,85-89,1656,39,37,50,6,1788,774,659,23,0,73,1529,4374,1371,217,59,362,77,6460
+VicInner regionalMale85-89,Vic,Inner regional,Male,85-89,363,11,13,11,4,402,111,209,10,0,21,351,239,342,24,14,71,10,700
+VicInner regionalFemale85-89,Vic,Inner regional,Female,85-89,578,15,11,9,2,615,281,195,8,0,35,519,1479,431,54,10,95,40,2109
+VicOuter regionalMale85-89,Vic,Outer regional,Male,85-89,78,0,3,2,5,88,26,48,2,0,8,84,55,98,11,3,12,3,182
+VicOuter regionalFemale85-89,Vic,Outer regional,Female,85-89,121,4,3,0,7,135,56,43,0,0,12,111,297,95,10,0,27,4,433
+VicRemoteMale85-89,Vic,Remote,Male,85-89,2,0,0,0,0,2,0,0,0,0,0,0,1,2,0,0,1,0,4
+VicRemoteFemale85-89,Vic,Remote,Female,85-89,0,0,0,0,0,0,4,0,0,0,2,6,7,1,0,0,0,0,8
+QldMajor citiesMale85-89,Qld,Major cities,Male,85-89,633,18,5,18,3,677,194,361,16,0,23,594,461,688,86,23,98,20,1376
+QldMajor citiesFemale85-89,Qld,Major cities,Female,85-89,1043,19,8,43,7,1120,427,385,17,0,55,884,2689,822,158,28,201,56,3954
+QldInner regionalMale85-89,Qld,Inner regional,Male,85-89,248,5,0,8,2,263,78,148,4,0,16,246,178,265,31,13,39,0,526
+QldInner regionalFemale85-89,Qld,Inner regional,Female,85-89,380,8,4,6,2,400,139,139,3,0,35,316,953,276,45,6,58,17,1355
+QldOuter regionalMale85-89,Qld,Outer regional,Male,85-89,105,4,1,0,1,111,37,58,2,0,10,107,108,121,14,7,21,4,275
+QldOuter regionalFemale85-89,Qld,Outer regional,Female,85-89,184,1,2,1,0,188,68,70,4,0,13,155,479,132,24,6,26,7,674
+QldRemoteMale85-89,Qld,Remote,Male,85-89,0,0,0,0,0,0,7,3,0,0,1,11,6,6,0,2,3,0,17
+QldRemoteFemale85-89,Qld,Remote,Female,85-89,10,0,0,1,0,11,6,5,1,0,0,12,29,7,1,1,2,1,41
+QldVery remoteMale85-89,Qld,Very remote,Male,85-89,4,0,0,0,0,4,1,4,0,0,0,5,3,1,0,0,2,0,6
+QldVery remoteFemale85-89,Qld,Very remote,Female,85-89,4,1,0,0,0,5,4,0,0,0,1,5,6,5,0,0,0,0,11
+WAMajor citiesMale85-89,WA,Major cities,Male,85-89,295,9,6,7,7,324,105,215,2,0,27,349,224,371,47,21,39,10,712
+WAMajor citiesFemale85-89,WA,Major cities,Female,85-89,564,19,15,17,4,619,256,203,3,0,44,506,1540,433,78,24,101,27,2203
+WAInner regionalMale85-89,WA,Inner regional,Male,85-89,68,1,0,1,1,71,25,49,1,0,7,82,43,70,9,2,6,2,132
+WAInner regionalFemale85-89,WA,Inner regional,Female,85-89,82,0,2,4,1,89,46,49,0,0,9,104,262,98,14,3,8,2,387
+WAOuter regionalMale85-89,WA,Outer regional,Male,85-89,23,1,1,0,1,26,12,23,1,0,3,39,23,19,2,2,3,0,49
+WAOuter regionalFemale85-89,WA,Outer regional,Female,85-89,46,4,2,1,0,53,34,18,0,0,4,56,121,31,6,3,6,1,168
+WARemoteMale85-89,WA,Remote,Male,85-89,0,0,0,0,0,0,3,3,0,0,0,6,1,4,1,0,1,0,7
+WARemoteFemale85-89,WA,Remote,Female,85-89,7,0,0,0,0,7,1,3,0,0,2,6,15,2,0,0,0,1,18
+WAVery remoteMale85-89,WA,Very remote,Male,85-89,1,0,0,0,0,1,0,1,0,0,0,1,3,3,1,4,0,0,11
+WAVery remoteFemale85-89,WA,Very remote,Female,85-89,0,0,0,0,0,0,0,1,1,0,0,2,10,0,0,0,0,0,10
+SAMajor citiesMale85-89,SA,Major cities,Male,85-89,407,4,7,7,1,426,133,215,17,0,11,376,291,469,41,24,44,9,878
+SAMajor citiesFemale85-89,SA,Major cities,Female,85-89,687,10,8,19,4,728,328,238,15,0,31,612,1872,603,92,18,96,25,2706
+SAInner regionalMale85-89,SA,Inner regional,Male,85-89,60,0,1,0,0,61,15,28,3,0,4,50,39,73,5,2,5,1,125
+SAInner regionalFemale85-89,SA,Inner regional,Female,85-89,102,2,0,4,0,108,42,22,3,0,6,73,258,79,8,2,17,4,368
+SAOuter regionalMale85-89,SA,Outer regional,Male,85-89,64,0,0,0,0,64,16,31,1,0,4,52,23,50,7,1,11,1,93
+SAOuter regionalFemale85-89,SA,Outer regional,Female,85-89,86,3,1,0,1,91,45,23,5,0,11,84,240,56,4,1,9,2,312
+SARemoteMale85-89,SA,Remote,Male,85-89,4,0,0,1,0,5,2,2,1,0,0,5,2,6,1,0,0,0,9
+SARemoteFemale85-89,SA,Remote,Female,85-89,15,0,0,0,0,15,5,2,0,0,0,7,29,6,1,0,3,0,39
+TasInner regionalMale85-89,Tas,Inner regional,Male,85-89,100,1,0,5,0,106,46,65,1,0,2,114,72,112,5,4,18,0,211
+TasInner regionalFemale85-89,Tas,Inner regional,Female,85-89,195,2,0,3,3,203,95,62,3,0,8,168,452,123,21,7,35,4,642
+TasOuter regionalMale85-89,Tas,Outer regional,Male,85-89,42,0,0,3,0,45,11,26,0,0,3,40,29,39,4,1,7,0,80
+TasOuter regionalFemale85-89,Tas,Outer regional,Female,85-89,75,0,0,1,0,76,34,15,0,0,0,49,163,45,4,3,6,0,221
+TasRemoteMale85-89,Tas,Remote,Male,85-89,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,4
+TasRemoteFemale85-89,Tas,Remote,Female,85-89,1,0,0,0,0,1,1,0,0,0,1,2,5,6,1,0,0,0,12
+TasVery remoteMale85-89,Tas,Very remote,Male,85-89,2,0,0,0,0,2,0,1,0,0,0,1,0,1,1,0,0,0,2
+TasVery remoteFemale85-89,Tas,Very remote,Female,85-89,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+ACTMajor citiesMale85-89,ACT,Major cities,Male,85-89,77,3,1,1,0,82,20,34,0,0,4,58,42,65,8,5,6,1,127
+ACTMajor citiesFemale85-89,ACT,Major cities,Female,85-89,103,2,4,1,1,111,44,41,1,0,9,95,294,80,32,5,11,4,426
+NTOuter regionalMale85-89,NT,Outer regional,Male,85-89,4,0,1,0,0,5,3,5,1,0,3,12,3,5,0,3,1,0,12
+NTOuter regionalFemale85-89,NT,Outer regional,Female,85-89,12,0,0,0,0,12,3,7,0,0,2,12,30,4,4,0,1,0,39
+NTRemoteMale85-89,NT,Remote,Male,85-89,3,0,0,0,0,3,2,2,0,0,0,4,3,1,0,0,0,1,5
+NTRemoteFemale85-89,NT,Remote,Female,85-89,6,0,0,0,0,6,0,2,1,0,0,3,12,1,2,1,1,0,17
+NTVery remoteMale85-89,NT,Very remote,Male,85-89,1,0,0,0,0,1,0,0,0,0,0,0,,,,,,,
+NTVery remoteFemale85-89,NT,Very remote,Female,85-89,1,0,0,0,0,1,0,2,0,0,0,2,4,0,0,0,1,0,5
+NSWMajor citiesMale90-94,NSW,Major cities,Male,90-94,816,22,19,21,9,887,452,787,32,0,99,1370,688,761,65,16,96,14,1640
+NSWMajor citiesFemale90-94,NSW,Major cities,Female,90-94,1992,50,52,34,20,2148,1425,947,51,0,215,2638,4842,826,174,22,372,72,6308
+NSWInner regionalMale90-94,NSW,Inner regional,Male,90-94,297,8,6,9,1,321,189,315,14,0,48,566,276,284,21,7,31,6,625
+NSWInner regionalFemale90-94,NSW,Inner regional,Female,90-94,741,14,13,14,5,787,486,305,23,0,78,892,1780,308,37,6,97,13,2241
+NSWOuter regionalMale90-94,NSW,Outer regional,Male,90-94,70,6,6,2,0,84,44,52,1,0,6,103,77,57,6,2,7,0,149
+NSWOuter regionalFemale90-94,NSW,Outer regional,Female,90-94,172,9,4,4,1,190,135,64,1,0,22,222,466,69,7,0,30,5,577
+NSWRemoteMale90-94,NSW,Remote,Male,90-94,2,0,0,0,0,2,0,0,0,0,0,0,2,1,0,0,1,0,4
+NSWRemoteFemale90-94,NSW,Remote,Female,90-94,3,0,3,0,0,6,1,2,0,0,0,3,8,0,0,0,0,0,8
+VicMajor citiesMale90-94,Vic,Major cities,Male,90-94,628,10,9,12,2,661,394,616,27,0,54,1091,583,648,37,19,68,16,1371
+VicMajor citiesFemale90-94,Vic,Major cities,Female,90-94,1556,26,32,28,8,1650,1127,713,24,0,124,1988,3671,702,110,8,255,50,4796
+VicInner regionalMale90-94,Vic,Inner regional,Male,90-94,252,3,3,3,0,261,159,209,6,0,25,399,201,204,7,11,23,6,452
+VicInner regionalFemale90-94,Vic,Inner regional,Female,90-94,506,11,11,3,2,533,396,209,12,0,55,672,1291,220,28,6,79,12,1636
+VicOuter regionalMale90-94,Vic,Outer regional,Male,90-94,52,2,0,1,1,56,38,48,1,0,6,93,45,50,1,0,8,0,104
+VicOuter regionalFemale90-94,Vic,Outer regional,Female,90-94,116,4,0,2,9,131,82,37,2,0,11,132,304,46,6,2,9,3,370
+VicRemoteMale90-94,Vic,Remote,Male,90-94,1,1,0,0,0,2,1,0,0,0,0,1,1,3,0,0,0,0,4
+VicRemoteFemale90-94,Vic,Remote,Female,90-94,2,0,0,0,0,2,1,2,0,0,1,4,3,1,0,0,0,0,4
+QldMajor citiesMale90-94,Qld,Major cities,Male,90-94,442,5,4,8,2,461,218,388,8,0,34,648,312,390,29,13,39,7,790
+QldMajor citiesFemale90-94,Qld,Major cities,Female,90-94,930,14,4,19,4,971,706,467,21,0,52,1246,2361,420,63,10,149,30,3033
+QldInner regionalMale90-94,Qld,Inner regional,Male,90-94,152,4,4,3,0,163,94,136,4,0,19,253,138,130,13,3,25,3,312
+QldInner regionalFemale90-94,Qld,Inner regional,Female,90-94,364,5,3,14,2,388,210,154,7,0,46,417,858,144,16,3,49,10,1080
+QldOuter regionalMale90-94,Qld,Outer regional,Male,90-94,77,2,1,1,0,81,39,63,3,0,6,111,68,64,6,1,12,3,154
+QldOuter regionalFemale90-94,Qld,Outer regional,Female,90-94,161,2,5,1,1,170,110,94,1,0,16,221,375,60,7,2,22,8,474
+QldRemoteMale90-94,Qld,Remote,Male,90-94,0,0,0,0,0,0,2,3,1,0,1,7,2,2,1,0,0,1,6
+QldRemoteFemale90-94,Qld,Remote,Female,90-94,7,0,1,1,0,9,5,7,0,0,0,12,21,3,0,0,2,0,26
+QldVery remoteMale90-94,Qld,Very remote,Male,90-94,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,2
+QldVery remoteFemale90-94,Qld,Very remote,Female,90-94,1,0,0,0,0,1,2,1,0,0,0,3,3,0,0,0,0,0,3
+WAMajor citiesMale90-94,WA,Major cities,Male,90-94,219,5,4,3,6,237,113,158,4,0,30,305,168,193,21,12,24,1,419
+WAMajor citiesFemale90-94,WA,Major cities,Female,90-94,506,14,20,8,0,548,385,203,13,0,72,673,1357,252,65,8,88,14,1784
+WAInner regionalMale90-94,WA,Inner regional,Male,90-94,40,0,0,1,0,41,17,45,0,0,3,65,38,33,5,0,1,0,77
+WAInner regionalFemale90-94,WA,Inner regional,Female,90-94,95,0,0,2,0,97,59,47,1,0,6,113,219,38,2,3,2,3,267
+WAOuter regionalMale90-94,WA,Outer regional,Male,90-94,20,0,1,0,0,21,4,13,0,0,0,17,12,12,0,1,2,0,27
+WAOuter regionalFemale90-94,WA,Outer regional,Female,90-94,37,2,1,0,0,40,44,19,0,0,2,65,126,16,6,1,6,0,155
+WARemoteMale90-94,WA,Remote,Male,90-94,2,0,0,0,0,2,0,0,0,0,0,0,4,4,0,0,0,1,9
+WARemoteFemale90-94,WA,Remote,Female,90-94,8,1,0,0,0,9,4,2,0,0,1,7,7,3,0,1,1,0,12
+WAVery remoteMale90-94,WA,Very remote,Male,90-94,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,2
+WAVery remoteFemale90-94,WA,Very remote,Female,90-94,3,1,0,0,0,4,0,0,0,0,0,0,3,0,0,0,0,0,3
+SAMajor citiesMale90-94,SA,Major cities,Male,90-94,297,4,2,2,3,308,167,237,5,0,24,433,258,262,19,10,19,3,571
+SAMajor citiesFemale90-94,SA,Major cities,Female,90-94,623,3,3,4,2,635,485,258,20,0,40,803,1557,272,53,8,96,19,2005
+SAInner regionalMale90-94,SA,Inner regional,Male,90-94,37,0,0,1,0,38,24,36,2,0,2,64,30,30,3,0,7,2,72
+SAInner regionalFemale90-94,SA,Inner regional,Female,90-94,99,0,0,0,0,99,64,28,7,0,6,105,258,46,10,1,8,2,325
+SAOuter regionalMale90-94,SA,Outer regional,Male,90-94,27,1,1,2,1,32,14,23,1,0,4,42,28,30,2,1,4,0,65
+SAOuter regionalFemale90-94,SA,Outer regional,Female,90-94,77,1,1,0,0,79,62,29,3,0,22,116,204,28,2,1,8,4,247
+SARemoteMale90-94,SA,Remote,Male,90-94,3,0,0,0,0,3,2,0,0,0,0,2,7,2,0,0,0,0,9
+SARemoteFemale90-94,SA,Remote,Female,90-94,7,0,0,0,0,7,7,4,0,0,1,12,25,3,1,0,2,0,31
+TasInner regionalMale90-94,Tas,Inner regional,Male,90-94,79,0,0,0,0,79,42,72,2,0,9,125,54,73,3,1,9,2,142
+TasInner regionalFemale90-94,Tas,Inner regional,Female,90-94,195,0,1,2,1,199,148,59,2,0,14,223,425,85,8,0,18,1,537
+TasOuter regionalMale90-94,Tas,Outer regional,Male,90-94,27,0,0,0,0,27,22,26,0,0,2,50,24,22,1,0,1,0,48
+TasOuter regionalFemale90-94,Tas,Outer regional,Female,90-94,41,0,1,2,0,44,63,18,0,0,4,85,110,18,3,1,4,1,137
+TasRemoteMale90-94,Tas,Remote,Male,90-94,1,0,0,0,0,1,1,0,0,0,0,1,0,3,0,0,0,0,3
+TasRemoteFemale90-94,Tas,Remote,Female,90-94,5,0,1,0,0,6,3,2,0,0,0,5,8,2,0,0,0,0,10
+TasVery remoteMale90-94,Tas,Very remote,Male,90-94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+TasVery remoteFemale90-94,Tas,Very remote,Female,90-94,2,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,0,0,3
+ACTMajor citiesMale90-94,ACT,Major cities,Male,90-94,58,1,0,0,0,59,26,37,0,0,7,70,30,39,3,0,0,1,73
+ACTMajor citiesFemale90-94,ACT,Major cities,Female,90-94,89,2,1,0,1,93,90,34,1,0,14,139,222,27,8,1,11,4,273
+NTOuter regionalMale90-94,NT,Outer regional,Male,90-94,2,0,0,0,0,2,2,2,0,0,0,4,1,2,2,0,0,0,5
+NTOuter regionalFemale90-94,NT,Outer regional,Female,90-94,7,0,1,0,0,8,9,4,0,0,0,13,20,2,0,0,0,0,22
+NTRemoteMale90-94,NT,Remote,Male,90-94,2,0,0,0,0,2,1,2,0,0,0,3,1,0,0,0,0,0,1
+NTRemoteFemale90-94,NT,Remote,Female,90-94,6,0,0,0,0,6,0,2,0,0,0,2,6,0,0,1,1,0,8
+NTVery remoteMale90-94,NT,Very remote,Male,90-94,3,0,0,0,0,3,1,0,0,0,0,1,0,1,0,0,0,0,1
+NTVery remoteFemale90-94,NT,Very remote,Female,90-94,2,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,1
+NSWMajor citiesMale95+,NSW,Major cities,Male,95+,284,5,12,5,1,307,279,373,14,0,43,709,270,177,9,7,21,5,489
+NSWMajor citiesFemale95+,NSW,Major cities,Female,95+,1210,31,31,16,9,1297,950,520,32,0,165,1667,2441,169,49,6,183,40,2888
+NSWInner regionalMale95+,NSW,Inner regional,Male,95+,121,1,1,1,1,125,109,122,9,0,22,262,91,69,3,2,12,1,178
+NSWInner regionalFemale95+,NSW,Inner regional,Female,95+,417,12,10,4,3,446,390,198,6,0,49,643,789,59,13,1,43,10,915
+NSWOuter regionalMale95+,NSW,Outer regional,Male,95+,23,0,3,0,0,26,29,35,0,0,6,70,25,18,0,1,2,0,46
+NSWOuter regionalFemale95+,NSW,Outer regional,Female,95+,110,3,2,1,2,118,80,38,1,0,18,137,189,17,4,0,5,2,217
+NSWRemoteMale95+,NSW,Remote,Male,95+,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+NSWRemoteFemale95+,NSW,Remote,Female,95+,2,0,0,0,0,2,0,0,0,0,0,0,5,0,0,0,0,0,5
+VicMajor citiesMale95+,Vic,Major cities,Male,95+,288,1,3,5,0,297,241,299,9,0,30,579,213,172,3,1,17,4,410
+VicMajor citiesFemale95+,Vic,Major cities,Female,95+,947,13,10,7,4,981,785,357,19,0,65,1226,1798,160,29,5,138,30,2160
+VicInner regionalMale95+,Vic,Inner regional,Male,95+,108,1,1,0,3,113,88,81,1,0,11,181,58,72,2,1,8,2,143
+VicInner regionalFemale95+,Vic,Inner regional,Female,95+,364,2,4,1,1,372,217,105,3,0,35,360,587,62,12,2,27,17,707
+VicOuter regionalMale95+,Vic,Outer regional,Male,95+,24,1,0,1,0,26,14,26,1,0,4,45,19,12,0,3,4,0,38
+VicOuter regionalFemale95+,Vic,Outer regional,Female,95+,81,3,0,2,0,86,65,24,1,0,10,100,126,13,0,0,6,1,146
+VicRemoteMale95+,Vic,Remote,Male,95+,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1
+VicRemoteFemale95+,Vic,Remote,Female,95+,3,0,0,0,0,3,0,0,0,0,0,0,5,1,0,0,1,0,7
+QldMajor citiesMale95+,Qld,Major cities,Male,95+,162,1,1,7,0,171,139,172,4,0,13,328,134,127,0,1,11,6,279
+QldMajor citiesFemale95+,Qld,Major cities,Female,95+,553,5,2,8,3,571,475,210,9,0,41,735,1093,103,16,3,69,23,1307
+QldInner regionalMale95+,Qld,Inner regional,Male,95+,59,1,0,0,0,60,49,79,2,0,6,136,64,38,2,0,7,2,113
+QldInner regionalFemale95+,Qld,Inner regional,Female,95+,200,4,0,1,0,205,154,89,4,0,32,279,409,34,6,0,21,8,478
+QldOuter regionalMale95+,Qld,Outer regional,Male,95+,23,0,0,0,0,23,26,28,1,0,3,58,24,10,1,0,6,0,41
+QldOuter regionalFemale95+,Qld,Outer regional,Female,95+,89,0,2,0,0,91,69,42,3,0,11,125,203,17,4,0,8,1,233
+QldRemoteMale95+,Qld,Remote,Male,95+,2,0,0,0,0,2,1,1,0,0,0,2,1,0,0,0,0,0,1
+QldRemoteFemale95+,Qld,Remote,Female,95+,2,0,0,1,0,3,3,0,0,0,1,4,12,0,0,0,1,0,13
+QldVery remoteMale95+,Qld,Very remote,Male,95+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+QldVery remoteFemale95+,Qld,Very remote,Female,95+,1,0,0,0,0,1,1,1,0,0,0,2,2,0,0,0,0,1,3
+WAMajor citiesMale95+,WA,Major cities,Male,95+,88,3,0,2,1,94,74,99,1,0,25,199,83,79,2,1,8,0,173
+WAMajor citiesFemale95+,WA,Major cities,Female,95+,363,10,7,1,1,382,249,112,6,0,57,424,742,69,16,5,41,6,879
+WAInner regionalMale95+,WA,Inner regional,Male,95+,19,0,0,0,0,19,16,18,0,0,2,36,12,12,1,1,0,0,26
+WAInner regionalFemale95+,WA,Inner regional,Female,95+,52,0,2,0,0,54,31,16,0,0,5,52,101,9,4,0,4,0,118
+WAOuter regionalMale95+,WA,Outer regional,Male,95+,3,1,0,0,0,4,3,7,0,0,0,10,8,4,0,0,1,0,13
+WAOuter regionalFemale95+,WA,Outer regional,Female,95+,27,0,1,2,0,30,27,14,0,0,2,43,55,9,0,1,1,2,68
+WARemoteMale95+,WA,Remote,Male,95+,4,0,0,0,0,4,1,1,0,0,0,2,1,2,0,0,0,0,3
+WARemoteFemale95+,WA,Remote,Female,95+,2,0,0,0,0,2,2,1,0,0,3,6,11,1,0,0,0,0,12
+WAVery remoteMale95+,WA,Very remote,Male,95+,1,0,0,0,0,1,1,0,1,0,0,2,1,0,0,1,0,1,3
+WAVery remoteFemale95+,WA,Very remote,Female,95+,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,3
+SAMajor citiesMale95+,SA,Major cities,Male,95+,99,0,2,2,1,104,110,124,2,0,7,243,65,83,3,1,2,2,156
+SAMajor citiesFemale95+,SA,Major cities,Female,95+,437,0,2,3,0,442,343,118,10,0,22,493,808,77,9,3,55,7,959
+SAInner regionalMale95+,SA,Inner regional,Male,95+,15,0,0,0,0,15,2,23,1,0,2,28,12,11,1,0,1,0,25
+SAInner regionalFemale95+,SA,Inner regional,Female,95+,64,0,0,0,0,64,53,17,2,0,10,82,126,13,2,0,9,2,152
+SAOuter regionalMale95+,SA,Outer regional,Male,95+,16,0,1,0,0,17,14,12,2,0,3,31,14,10,0,0,0,1,25
+SAOuter regionalFemale95+,SA,Outer regional,Female,95+,51,0,1,0,0,52,38,11,1,0,8,58,93,7,2,0,3,1,106
+SARemoteMale95+,SA,Remote,Male,95+,1,0,0,0,0,1,0,0,0,0,0,0,,,,,,,
+SARemoteFemale95+,SA,Remote,Female,95+,2,0,0,0,0,2,5,1,0,0,0,6,9,0,0,0,0,0,9
+TasInner regionalMale95+,Tas,Inner regional,Male,95+,30,0,0,0,0,30,22,26,1,0,2,51,23,12,0,0,0,0,35
+TasInner regionalFemale95+,Tas,Inner regional,Female,95+,100,1,0,1,0,102,93,39,0,0,4,136,196,18,2,0,13,2,231
+TasOuter regionalMale95+,Tas,Outer regional,Male,95+,12,0,0,0,0,12,6,9,1,0,3,19,4,5,1,0,0,0,10
+TasOuter regionalFemale95+,Tas,Outer regional,Female,95+,35,0,0,1,0,36,30,8,0,0,0,38,55,2,1,0,1,0,59
+TasRemoteMale95+,Tas,Remote,Male,95+,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+TasRemoteFemale95+,Tas,Remote,Female,95+,3,0,0,0,0,3,0,0,0,0,0,0,4,0,0,0,0,0,4
+TasVery remoteMale95+,Tas,Very remote,Male,95+,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+TasVery remoteFemale95+,Tas,Very remote,Female,95+,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,2
+ACTMajor citiesMale95+,ACT,Major cities,Male,95+,17,0,0,0,0,17,12,14,0,0,3,29,12,11,0,0,1,0,24
+ACTMajor citiesFemale95+,ACT,Major cities,Female,95+,60,1,1,0,0,62,53,20,1,0,8,82,105,7,4,0,3,0,119
+NTOuter regionalMale95+,NT,Outer regional,Male,95+,2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,1
+NTOuter regionalFemale95+,NT,Outer regional,Female,95+,3,0,0,0,0,3,3,4,0,0,1,8,2,0,1,0,0,0,3
+NTRemoteMale95+,NT,Remote,Male,95+,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+NTRemoteFemale95+,NT,Remote,Female,95+,1,0,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0,0,7
+NTVery remoteMale95+,NT,Very remote,Male,95+,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
+NTVery remoteFemale95+,NT,Very remote,Female,95+,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,,
